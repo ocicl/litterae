@@ -1,0 +1,10 @@
+* litterae
+
+Work in progress common lisp library for beautiful documentation generation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stefandevai/litterae.git   |
+| commit  | cf85196  |
+| systems | litterae |
+|---------+-------------------------------------------|
+
